@@ -1,0 +1,2 @@
+# adityacreaton
+QRcode generate
